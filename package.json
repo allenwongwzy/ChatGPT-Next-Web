@@ -1,5 +1,8 @@
 {
   "name": "nextchat",
+  "engines": {
+    "node": ">=20.12.2"
+  },
   "private": false,
   "license": "mit",
   "scripts": {
